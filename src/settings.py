@@ -26,7 +26,7 @@ LICENSE: License = License.Custom(
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Agricultural()]
 CATEGORY: Category = Category.Agriculture(extra=[Category.Aerial(), Category.Drones()])
 
-CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
+CV_TASKS: List[CVTask] = [CVTask.ObjectDetection(), CVTask.Identification()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
 
 RELEASE_DATE: Optional[str] = None  # e.g. "YYYY-MM-DD"
