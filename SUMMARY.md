@@ -1,4 +1,4 @@
-**A Dataset of Multispectral Potato Plants Images** is a dataset for an object detection task. It is used in the agricultural industry. 
+**A Dataset of Multispectral Potato Plants Images** is a dataset for object detection and identification tasks. It is used in the agricultural industry. 
 
 The dataset consists of 1800 images with 25795 labeled objects belonging to 2 different classes including *healthy* and *stressed*.
 
