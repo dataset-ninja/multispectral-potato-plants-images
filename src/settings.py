@@ -81,7 +81,7 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.uidaho.edu/"
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
     "__PRETEXT__": "Additionally, all images are grouped by their ***image_id***. Explore them in supervisely advanced labeling tool"
 }
-TAGS: Optional[List[str]] = None
+TAGS: Optional[List[str]] = ['multi-view']
 
 
 SECTION_EXPLORE_CUSTOM_DATASETS: Optional[List[str]] = None
