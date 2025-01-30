@@ -1,6 +1,6 @@
 Dataset **Multispectral Potato Plants Images** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/e86dwy65m3mrh8k62nwng/multispectral-potato-plants-images-DatasetNinja.tar?rlkey=a262r4czgwqgjdnr1orgf0ho5&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzIyNjVfTXVsdGlzcGVjdHJhbCBQb3RhdG8gUGxhbnRzIEltYWdlcy9tdWx0aXNwZWN0cmFsLXBvdGF0by1wbGFudHMtaW1hZ2VzLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIkZDVkV4TC92czBLQ1BJTGhLYkxIM3JFSldOM0N2OWVuaFB2UDBSVy9ITms9In0=)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
